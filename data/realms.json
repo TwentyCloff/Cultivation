@@ -1,0 +1,316 @@
+{
+  "step1": [
+    {
+      "mandarin": "凝气",
+      "pinyin": "Níng qì",
+      "english": "Qi Condensation",
+      "xp_required": 100,
+      "power": 1.0
+    },
+    {
+      "mandarin": "筑基",
+      "pinyin": "Zhù jī",
+      "english": "Foundation Establishment",
+      "xp_required": 300,
+      "power": 1.5
+    },
+    {
+      "mandarin": "结丹",
+      "pinyin": "Jié dān",
+      "english": "Core Formation",
+      "xp_required": 900,
+      "power": 2.2
+    },
+    {
+      "mandarin": "化神",
+      "pinyin": "Huà shén",
+      "english": "Nascent Soul",
+      "xp_required": 2700,
+      "power": 3.3
+    },
+    {
+      "mandarin": "化神",
+      "pinyin": "Huà shén",
+      "english": "Soul Formation",
+      "xp_required": 8100,
+      "power": 5.0
+    },
+    {
+      "mandarin": "婴变",
+      "pinyin": "Yīng biàn",
+      "english": "Soul Transformation",
+      "xp_required": 24300,
+      "power": 7.5
+    },
+    {
+      "mandarin": "问鼎",
+      "pinyin": "Wèn dǐng",
+      "english": "Ascendant",
+      "xp_required": 72900,
+      "power": 11.2
+    }
+  ],
+  "step2": [
+    {
+      "mandarin": "阴虚",
+      "pinyin": "Yīn xū",
+      "english": "Illusory Yin",
+      "xp_required": 100000,
+      "power": 16.8
+    },
+    {
+      "mandarin": "阳实",
+      "pinyin": "Yáng shí",
+      "english": "Corporeal Yang",
+      "xp_required": 300000,
+      "power": 25.2
+    },
+    {
+      "mandarin": "窥涅",
+      "pinyin": "Kuī niè",
+      "english": "Nirvana Scryer",
+      "xp_required": 900000,
+      "power": 37.8
+    },
+    {
+      "mandarin": "净涅",
+      "pinyin": "Jìng niè",
+      "english": "Nirvana Cleanser",
+      "xp_required": 2700000,
+      "power": 56.7
+    },
+    {
+      "mandarin": "碎涅",
+      "pinyin": "Suì niè",
+      "english": "Nirvana Shatterer",
+      "xp_required": 8100000,
+      "power": 85.0
+    },
+    {
+      "mandarin": "破空五指",
+      "pinyin": "Pò kōng wǔ zhǐ",
+      "english": "Heaven's Blight",
+      "xp_required": 24300000,
+      "power": 127.5
+    }
+  ],
+  "step3": [
+    {
+      "english": "Nirvana Void",
+      "xp_required": 50000000,
+      "power": 191.2
+    },
+    {
+      "english": "Spirit Void",
+      "xp_required": 100000000,
+      "power": 286.8
+    },
+    {
+      "english": "Arcane Void",
+      "xp_required": 200000000,
+      "power": 430.2
+    },
+    {
+      "english": "Void Tribulant",
+      "xp_required": 400000000,
+      "power": 645.3
+    },
+    {
+      "english": "Great Exalt",
+      "xp_required": 800000000,
+      "power": 968.0
+    },
+    {
+      "english": "Golden Exalt",
+      "xp_required": 1600000000,
+      "power": 1452.0
+    },
+    {
+      "english": "Empyrean Exalt",
+      "xp_required": 3200000000,
+      "power": 2178.0
+    },
+    {
+      "english": "Ascendant Empyrean",
+      "xp_required": 6400000000,
+      "power": 3267.0
+    },
+    {
+      "english": "Grand Empyrean",
+      "xp_required": 12800000000,
+      "power": 4900.5
+    },
+    {
+      "english": "Half-Step Heaven Trampling",
+      "xp_required": 25600000000,
+      "power": 7350.8
+    },
+    {
+      "english": "Heaven Trampling",
+      "xp_required": 51200000000,
+      "power": 11026.2
+    }
+  ],
+  "ancient_god": [
+    {
+      "stars": 1,
+      "equivalent": "Qi Condensation - Core Formation",
+      "xp_required": 100000,
+      "power": 15.0
+    },
+    {
+      "stars": 2,
+      "equivalent": "Nascent Soul - Soul Formation",
+      "xp_required": 300000,
+      "power": 22.5
+    },
+    {
+      "stars": 3,
+      "equivalent": "Soul Transformation - Yin/Yang",
+      "xp_required": 900000,
+      "power": 33.8
+    },
+    {
+      "stars": 4,
+      "equivalent": "Nirvana Scryer",
+      "xp_required": 2700000,
+      "power": 50.6
+    },
+    {
+      "stars": 5,
+      "equivalent": "Nirvana Cleanser - Shatterer",
+      "xp_required": 8100000,
+      "power": 75.9
+    },
+    {
+      "stars": 6,
+      "equivalent": "Heaven's Blight",
+      "xp_required": 24300000,
+      "power": 113.9
+    },
+    {
+      "stars": 7,
+      "equivalent": "Nirvana Void",
+      "xp_required": 50000000,
+      "power": 170.8
+    },
+    {
+      "stars": 8,
+      "equivalent": "Spirit Void",
+      "xp_required": 100000000,
+      "power": 256.2
+    },
+    {
+      "stars": 9,
+      "equivalent": "Arcane Void",
+      "xp_required": 200000000,
+      "power": 384.3
+    },
+    {
+      "stars": 10,
+      "equivalent": "Void Tribulant",
+      "xp_required": 400000000,
+      "power": 576.5
+    },
+    {
+      "stars": 11,
+      "xp_required": 600000000,
+      "power": 864.7
+    },
+    {
+      "stars": 12,
+      "xp_required": 800000000,
+      "power": 1297.1
+    },
+    {
+      "stars": 13,
+      "xp_required": 1000000000,
+      "power": 1945.6
+    },
+    {
+      "stars": 14,
+      "xp_required": 1200000000,
+      "power": 2918.4
+    },
+    {
+      "stars": 15,
+      "xp_required": 1400000000,
+      "power": 4377.6
+    },
+    {
+      "stars": 16,
+      "xp_required": 1600000000,
+      "power": 6566.4
+    },
+    {
+      "stars": 17,
+      "xp_required": 1800000000,
+      "power": 9849.6
+    },
+    {
+      "stars": 18,
+      "xp_required": 2000000000,
+      "power": 14774.4
+    },
+    {
+      "stars": 19,
+      "xp_required": 2200000000,
+      "power": 22161.6
+    },
+    {
+      "stars": 20,
+      "xp_required": 2400000000,
+      "power": 33242.4
+    },
+    {
+      "stars": 21,
+      "xp_required": 2600000000,
+      "power": 49863.6
+    },
+    {
+      "stars": 22,
+      "xp_required": 2800000000,
+      "power": 74795.4
+    },
+    {
+      "stars": 23,
+      "xp_required": 3000000000,
+      "power": 112193.1
+    },
+    {
+      "stars": 24,
+      "xp_required": 3200000000,
+      "power": 168289.7
+    },
+    {
+      "stars": 25,
+      "xp_required": 3400000000,
+      "power": 252434.5
+    },
+    {
+      "stars": 26,
+      "xp_required": 3600000000,
+      "power": 378651.8
+    },
+    {
+      "stars": 27,
+      "xp_required": 3800000000,
+      "power": 567977.7
+    },
+    {
+      "stars": "Grand Empyrean",
+      "xp_required": 5000000000,
+      "power": 800000.0
+    },
+    {
+      "stars": "Half-Step Heaven Trampling",
+      "xp_required": 7500000000,
+      "power": 1200000.0
+    },
+    {
+      "stars": "Heaven Trampling",
+      "xp_required": 10000000000,
+      "power": 1800000.0
+    }
+  ]
+}

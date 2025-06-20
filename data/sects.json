@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Soul Refining Sect",
+    "buff": "+20% Spiritual XP and +10% drop rate for spiritual/rare weapons"
+  },
+  {
+    "name": "Heavenly Fate Sect",
+    "buff": "+10% chance to get rare characters in gacha"
+  },
+  {
+    "name": "Heng Yue Sect",
+    "buff": "+15% general loot and +10% XP from domain quests"
+  },
+  {
+    "name": "Fighting Evil Sect",
+    "buff": "+10% damage vs undead & +15% battle quest drops"
+  },
+  {
+    "name": "Corpse Sect",
+    "buff": "+8% HP regen & +12% resistance to necrotic damage"
+  },
+  {
+    "name": "Xuan Dao Sect",
+    "buff": "-20% quest cooldown & +10% void XP absorption"
+  },
+  {
+    "name": "Cloud Sky Sect",
+    "buff": "+10% crafting success & +10% jade/stones yield"
+  },
+  {
+    "name": "Da Lou Sword Sect",
+    "buff": "-10% weapon ability cooldown & +15% sword damage"
+  },
+  {
+    "name": "Vermilion Bird Divine Sect",
+    "buff": "Unlocks Vermilion Mark skill (+10% all XP after threshold)"
+  },
+  {
+    "name": "Origin Sect",
+    "buff": "+10% world exploration XP & +5% secret loot"
+  },
+  {
+    "name": "Great Soul Sect",
+    "buff": "+15% Soul-based skill power & +10% soul XP"
+  },
+  {
+    "name": "War God Shrine Sect",
+    "buff": "+20% war quest rewards & +5% power in global events"
+  },
+  {
+    "name": "Scarlet Soul Sect",
+    "buff": "+15% blood-slaughter synergy & +10% vampiric healing"
+  },
+  {
+    "name": "Purple Dao Sect",
+    "buff": "Unlocks Purple Dao passive (+15% cooldown reduction)"
+  },
+  {
+    "name": "Celestial Dragon Sect",
+    "buff": "+10% ranged/parry & +5% elemental resistance"
+  },
+  {
+    "name": "Blue Dragon Sect",
+    "buff": "+15% water/ice aura power"
+  },
+  {
+    "name": "Thunder Celestial Temple",
+    "buff": "+15% thunder damage & +10% lightning XP absorption"
+  },
+  {
+    "name": "Tian Dao Sect",
+    "buff": "+10% divine jurisprudence XP & +5% law resistance"
+  },
+  {
+    "name": "Treasure Jade Sect",
+    "buff": "+15% shard drop rate & +10% jade gem quality"
+  },
+  {
+    "name": "Slaughter Realm",
+    "buff": "+20% burst damage on critical health targets"
+  },
+  {
+    "name": "School of Heaven",
+    "buff": "+10% Heavenly realm XP & unlocks divine buff"
+  }
+]

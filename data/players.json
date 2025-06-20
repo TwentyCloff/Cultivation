@@ -1,0 +1,24 @@
+{
+  "1078878279433469983": {
+    "step": 3,
+    "realm": 10,
+    "spiritual_xp": 0,
+    "comprehension_xp": 0,
+    "essence_xp": 0,
+    "ancient_xp": 0,
+    "gold": 9999999999949,
+    "inventory": [
+      "Bronze Dagger"
+    ],
+    "sect": "Soul Refining Sect",
+    "reincarnations": 0,
+    "xp_bonus": 0,
+    "last_work": null,
+    "last_gacha": 1750416880.45578,
+    "last_breakthrough": null,
+    "ancient_god": false,
+    "ancient_stars": 0,
+    "legacy_fragments": 0,
+    "has_true_legacy": false
+  }
+}
